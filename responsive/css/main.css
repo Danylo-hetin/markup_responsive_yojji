@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+
+.container {
+    margin: 0 auto;
+    max-width: 79%;
+}
